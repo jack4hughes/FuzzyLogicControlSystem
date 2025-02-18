@@ -38,3 +38,7 @@ TODO: Write more here
 
 ## Ruleset
 TODO: Write more here.
+
+# Contact Details
+
+for more information, contact me at jack4.hughes@live.uwe.ac.uk
